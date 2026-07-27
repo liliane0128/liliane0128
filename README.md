@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  Backend Engineering · AI Applications · Full-Stack Development
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&pause=1000&color=2563EB&center=true&vCenter=true&width=500&lines=Backend+Engineering;AI+%2B+Local+LLM+Experiments;Full-Stack+Development" alt="Typing SVG" />
 </p>
 
 <br>
